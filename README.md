@@ -2,10 +2,6 @@
 
 This repository contains materials for the tutorial workshop "Building Intuitive and Efficient Biophysical Models" presented at the CNS Conference in Florence, Italy on July 5, 2025.
 
-## Website
-
-The workshop website is available at: https://r-makarov.github.io/cns2025tutorial/
-
 ## Overview
 
 This tutorial focuses on making biophysical models more intuitive and computationally efficient using two new software tools:
@@ -14,10 +10,7 @@ This tutorial focuses on making biophysical models more intuitive and computatio
 
 ## Workshop Materials
 
-- [Setup Instructions](setup.md)
 - [Jupyter Notebooks](notebooks/)
-- [Presentation Slides](slides/)
-- [References](references.md)
 
 ## Getting Started
 
@@ -26,13 +19,11 @@ This tutorial focuses on making biophysical models more intuitive and computatio
 git clone https://github.com/r-makarov/cns2025tutorial.git
 ```
 
-2. Follow the [setup instructions](setup.md) to prepare your environment.
-
-3. Explore the Jupyter notebooks in the `notebooks` directory.
+2. Explore the Jupyter notebooks in the `notebooks` directory. Alternatively, upload the notebooks to Google colab and run them there.
 
 ## Prerequisites
 
-- Python 3.8+
+- Python 3.10+
 - Jupyter Notebook or JupyterLab
 - Basic knowledge of computational neuroscience principles
 - Familiarity with Python programming
